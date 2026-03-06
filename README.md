@@ -14,7 +14,7 @@ I am an economist with expertise in valuation and damage measurement. My work is
 
 I am a scholar who values clear and concise communication. I translate complex economic findings into accessible language. I prioritize transparent reasoning and defensible conclusions over advocacy.
 
-I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I value one-on-one mentoring and regularly supervise independent projects for students. Many of these projects have converted to peer-reviewed articles, several of which went on to win journal awards, besting others written by career professionals or other students. I developed and manage the **Environmental Economics and Sustainability** major at Loyola. 
+I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I value one-on-one mentoring and regularly supervise independent projects for students. Many of these projects have converted to peer-reviewed articles, several of which went on to win journal awards, besting others written by career professionals or other students. I developed and manage the Environmental Economics and Sustainability major at Loyola. 
 
 ## Academic Qualifications
 
@@ -39,7 +39,7 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 
 ## Contact Information
 - **Email**: [rmelstrom@luc.edu](mailto:rmelstrom@luc.edu)
-- **Office**: BVM Hall 424, Lake Shore Campus
+- **Office**: BVM Hall 418, Lake Shore Campus
 - **Profiles**: [Google Scholar](https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en) | [Loyola Research Portal]([https://scholars.luc.edu/en/persons/richard-melstrom/](https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml))
 
 ---
