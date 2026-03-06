@@ -1,4 +1,4 @@
-# Richard "Max" Melstrom, PhD 👋
+# Richard "Max" Melstrom, PhD
 **Endowed Associate Professor | School of Environmental Sustainability**  
 **Loyola University Chicago**
 
