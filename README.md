@@ -1,23 +1,33 @@
 <style>
-  /* Force-hide the auto-generated theme headers */
+  /* 1. Force-hide the auto-generated theme header and repository title */
   header.page-header, 
+  section.page-header,
   .site-header, 
   .project-name, 
   .project-tagline { 
     display: none !important; 
-    height: 0; 
-    padding: 0; 
-    margin: 0; 
+    visibility: hidden !important;
+    height: 0 !important; 
+    padding: 0 !important; 
+    margin: 0 !important; 
+    border: none !important;
   }
   
-  /* Ensure the subheader has no borders or boxes */
-  .clean-subheader {
+  /* 2. Remove borders and boxes from the subheader */
+  .clean-header-container {
     border: none !important;
     background: none !important;
     padding: 0 !important;
-    margin-top: -10px;
-    font-size: 1.1em;
-    color: #666;
+    margin: 0 !important;
+  }
+  
+  .clean-subheader {
+    display: block;
+    margin: 5px 0 15px 0;
+    font-size: 1.2em;
+    color: #555;
+    border: none !important;
+    box-shadow: none !important;
   }
 </style>
 
@@ -40,16 +50,16 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 ## Academic Qualifications
 
 ### Education
-- **Ph.D., Economics** | Michigan State University, 2012  
-- **M.A., Economics** | Michigan State University, 2008
-- **B.A., Economics & Business** | Kalamazoo College, 2007  
+- Ph.D., Economics | Michigan State University, 2012  
+- M.A., Economics | Michigan State University, 2008
+- B.A., Economics & Business | Kalamazoo College, 2007  
 
 ### Academic Appointments
-- **Endowed Professor** | Loyola University Chicago, School of Environmental Sustainability, 2026–Present
-- **Endowed Associate Professor** | Loyola University Chicago, School of Environmental Sustainability, 2021–2026
-- **Endowed Assistant Professor** | Loyola University Chicago, School of Environmental Sustainability, 2017–2021
-- **Assistant Professor** | Oklahoma State University, Department of Agricultural Economics, 2014–2017
-- **Assistant Professor** | Salisbury University, Departments of Economics and Environmental Studies, 2012–2014
+- Endowed Professor | Loyola University Chicago, School of Environmental Sustainability, 2026–Present
+- Endowed Associate Professor | Loyola University Chicago, School of Environmental Sustainability, 2021–2026
+- Endowed Assistant Professor | Loyola University Chicago, School of Environmental Sustainability, 2017–2021
+- Assistant Professor | Oklahoma State University, Department of Agricultural Economics, 2014–2017
+- Assistant Professor | Salisbury University, Departments of Economics and Environmental Studies, 2012–2014
 
 ### Professional Recognition
 - Deputy Academic Editor, *Cogent Economics & Finance*, 2025–Present
