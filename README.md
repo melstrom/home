@@ -37,7 +37,9 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 ## Contact Information
 - **Email**: [rmelstrom@luc.edu](mailto:rmelstrom@luc.edu)
 - **Office**: BVM Hall 418, Lake Shore Campus
-- **Profiles**: [Google Scholar](https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en) | [Loyola Research Portal]([https://scholars.luc.edu/en/persons/richard-melstrom/](https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml))
-
+- **Profiles**: <span>
+<a href="https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en">Google Scholar</a> |
+<a href="https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml">Loyola Research Portal</a>
+</span>
 ---
 *“If we don’t measure values, they’re too easy to ignore.”*
