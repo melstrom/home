@@ -1,5 +1,10 @@
+---
+layout: default
+title: ""
+---
+
 <style>
-  /* 1. Force-hide the auto-generated theme header and repository title */
+  /* 1. Hide the auto-generated theme header and repository title */
   header.page-header, 
   section.page-header,
   .site-header, 
@@ -13,21 +18,21 @@
     border: none !important;
   }
   
-  /* 2. Remove borders and boxes from the subheader */
-  .clean-header-container {
+  /* 2. Remove all borders and boxes from headers and subheaders */
+  h1, h2, h3, .clean-header-container {
     border: none !important;
+    box-shadow: none !important;
     background: none !important;
     padding: 0 !important;
-    margin: 0 !important;
   }
-  
+
   .clean-subheader {
     display: block;
-    margin: 5px 0 15px 0;
+    margin: 0 0 15px 0;
     font-size: 1.2em;
     color: #555;
     border: none !important;
-    box-shadow: none !important;
+    font-weight: bold;
   }
 </style>
 
