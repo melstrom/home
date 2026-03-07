@@ -7,11 +7,11 @@ Economist | Professor | Expert<br><br>
 <br>
 
 ## About Me
-I am an economist with expertise in valuation and damage measurement. My work is driven by economic theory, empirical methods, and data analysis. I have published 63 peer-reviewed articles in high-impact academic journals.
+I am an economist with expertise in valuation and damage measurement. My work is driven by economic theory, empirical methods, and data analysis. I have published 63 articles in high-impact, peer-reviewed academic journals.
 
 I value clear and concise communication and specialize in translating complex economic findings into accessible language. My work prioritizes transparent reasoning and defensible conclusions over advocacy.
 
-I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I value one-on-one mentoring and regularly supervise independent student projects. Many of these projects have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics and Sustainability major at Loyola.
+I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I perform one-on-one mentoring and regularly supervise independent student projects. Many of these projects have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics & Sustainability major at Loyola.
 
 ## Qualifications
 
