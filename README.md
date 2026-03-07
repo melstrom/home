@@ -1,3 +1,7 @@
+<style>
+  /* This hides the default GitHub Pages/Primer theme header */
+  .page-header, .site-header, h1.project-name { display: none !important; }
+</style>
 
 <img src="https://media.licdn.com/dms/image/v2/D5603AQH8vPSylXsIqA/profile-displayphoto-crop_800_800/B56ZsqEez9IEAM-/0/1765937378397?e=1774483200&v=beta&t=IvJYmIzWJrHGL0wWhK-mBCHBcWCQkjcFJ9cEbETAOAc" align="right" width="256" style="margin-left: 20px; margin-bottom: 10px;">
 
