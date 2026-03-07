@@ -50,4 +50,6 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 </span>  
 
 ---
+<br>
+
 *“If we don’t measure values, they’re too easy to ignore.”*
