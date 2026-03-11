@@ -9,6 +9,9 @@ permalink: /research/
   <a href="/home/Melstrom CV.pdf">CV</a>
 </div>
 
+---
+<br>
+
 ## Selected Peer-Reviewed Publications
 
 **Economic benefits from restoration actions in coastal communities**  
