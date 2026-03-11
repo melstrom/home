@@ -42,9 +42,12 @@ A MA or MS degree in economics also prepares graduates for research and analysis
 
 ### Degree preparation
 Students tend to fall into one of the following groups, based on their coursework. (I call out environmental economics in the first box as the topics course because almost every student I interact with has taken or is taking environmental economics or similarly themed course, like ecological economics.)
-Beginner: Principals of Microeconomics, Business Statistics, Calculus I, Environmental Economics or other topics course
-Intermediate: Intermediate Microeconomics, Econometrics, Calculus II, Independent research course
-Advanced: Probability Theory, Linear Algebra, Calculus III, Real Analysis
+| Beginner | Intermediate | Advanced |
+| :--- | :--- | :--- |
+| Principles of Microeconomics | Intermediate Microeconomics | Probability Theory |
+| Business Statistics | Econometrics | Linear Algebra |
+| Calculus I | Calculus II | Calculus III |
+| Environmental Economics | Independent research course | Real Analysis |
 
 The beginning student has taken a couple courses in economics as well as courses in statistics and calculus. The statistics course is often part of their major requirement (that may be named something like Environmental Statistics for environmental studies majors or Statistics for Social Research for sociology majors, such as at Loyola University Chicago). The calculus course is usually a university core required for graduation. The student may be interested in but without much experience in research.
  
