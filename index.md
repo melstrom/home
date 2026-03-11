@@ -89,8 +89,8 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 - **Email**: [rmelstrom@luc.edu](mailto:rmelstrom@luc.edu)
 - **Office**: BVM Hall 418, Lake Shore Campus
 - **Profiles**: <span>
-<a href="https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en">Google Scholar</a> |
 <a href="https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml">Loyola Academic Portal</a>
+<a href="https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en">Google Scholar</a> |
 </span>  
 
 ---
