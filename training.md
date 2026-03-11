@@ -6,6 +6,11 @@
 </div>
 
 ---
+title: Training
+permalink: /training/
+---
+
+---
 </div>
 
 
