@@ -1,7 +1,13 @@
 ---
-title: Research
 permalink: /research/
 ---
+
+<div style="display:flex; justify-content:center; gap:45px; font-size:1.08em; margin-top:5px; margin-bottom:18px; padding-bottom:10px; border-bottom:1px solid #e5e5e5; letter-spacing:0.04em;">
+  <a href="index">Home</a>
+  <a href="research">Research</a>
+  <a href="teaching">Training</a>
+  <a href="Melstrom CV.pdf">CV</a>
+</div>
 
 ## Selected Peer-Reviewed Publications
 
