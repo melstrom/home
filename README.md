@@ -5,7 +5,7 @@ Economist | Professor | Consultant<br><br>
 
 <span style="font-size:1.05em;">
 <a href="./">Home</a> |
-<a href="docs/cv_melstrom.pdf">CV</a> |
+<a href="docs/Melstrom CV.pdf">CV</a> |
 <a href="#research">Research</a> |
 <a href="#training">Training</a>
 </span>
@@ -48,7 +48,7 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 ---
 <br>
 
-## Contact Information
+## Curriculum Vitae
 [Curriculum Vitae](Melstrom CV.pdf)
 
 ---
