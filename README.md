@@ -42,8 +42,8 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 <br>
 
 ## Contact Information
+[Curriculum Vitae](Melstrom CV.pdf)
 
-[Download CV](Melstrom CV.pdf)
 ---
 <br>
 
