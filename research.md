@@ -8,9 +8,11 @@ permalink: /research/
   gap: 45px;
   font-size: 1.08em;
   font-family: sans-serif;
-  padding: 2px 0;             /* vertical padding */
-  border-bottom: 1px solid #e5e5e5; /* bottom line only */
-  margin-bottom: 15px;        /* space below the bar */
+  line-height: 1em;             /* tighten vertical spacing */
+  padding: 3px 0;               /* reduce bar height */
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 15px;          /* space below bar */
 }
 
 .navbar a {
@@ -20,17 +22,16 @@ permalink: /research/
 }
 
 .navbar a:hover {
-  color: #007acc;  /* subtle hover highlight */
+  color: #007acc;
 }
 </style>
 
 <div class="navbar">
   <a href="/home/">Home</a>
-  <a href="/home/Melstrom CV.pdf">CV</a>
-  <a href="/home/research/">Research</a>
-  <a href="/home/training/">Training</a>
+  <a href="/Melstrom CV.pdf">CV</a>
+  <a href="/research/">Research</a>
+  <a href="/training/">Training</a>
 </div>
-
 
 ## Selected Peer-Reviewed Publications
 
