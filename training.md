@@ -1,7 +1,6 @@
 ---
 permalink: /training/
 ---
-
 <style>
 .navbar {
   display: flex;
