@@ -63,6 +63,7 @@ A MA or MS degree in economics also prepares graduates for research and analysis
 
 ### Degree preparation
 Students tend to fall into one of the following groups, based on their coursework. (I call out environmental economics in the first box as the topics course because almost every student I interact with has taken or is taking environmental economics or similarly themed course, like ecological economics.)
+
 | Beginner | Intermediate | Advanced |
 | :--- | :--- | :--- |
 | Principles of Microeconomics | Intermediate Microeconomics | Probability Theory |
