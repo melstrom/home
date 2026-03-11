@@ -31,7 +31,7 @@ permalink: /research/
   <a href="/home/Melstrom CV.pdf">CV</a>
   <a href="/home/research/">Research</a>
   <a href="/home/training/">Training</a>
-</div
+</div>
 
 ---
 <br>
