@@ -3,8 +3,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
-
 ## Selected Peer-Reviewed Publications
 
 **Economic benefits from restoration actions in coastal communities**  
@@ -16,3 +14,8 @@ This study examines the economic effect of remedial actions in Great Lakes commu
 This study examines the effect of removing pollutants, mainly polychlorinated biphenyls (PCBs), on home prices from surface waters around Milwaukee. Results indicate that home prices near the water increased significantly and that remediation did not change pre-existing inequalities generally favoring higher-income households.
 
 [Download paper](JEEM_2022.pdf)
+
+**The effect of land use restrictions protecting endangered species on agricultural land values**  
+This study examines the effect of U.S. Endangered Species Act (ESA) regulations on agricultural values. The ESA attempts to limit habitat loss by prohibiting habitat destruction on private lands, which places much of the burden for conservation on farmers. Results indicate that ESA regulations depress land values and profits in dryland areas, which includes counties with less than 1% of agricultural land in irrigation. Farmland value and profit decline 4% after a listing on average at the county level in dryland areas with protected habitat. 
+
+[Download paper](AJAE_2021.pdf)
