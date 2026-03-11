@@ -1,14 +1,14 @@
-<img src="https://media.licdn.com/dms/image/v2/D5603AQH8vPSylXsIqA/profile-displayphoto-crop_800_800/B56ZsqEez9IEAM-/0/1765937378397?e=1774483200&v=beta&t=IvJYmIzWJrHGL0wWhK-mBCHBcWCQkjcFJ9cEbETAOAc" align="right" width="256" style="margin-left: 20px; margin-bottom: 10px;">
-
-# Richard "Max" Melstrom, PhD  
-Economist | Professor | Consultant<br><br>
-
-<span style="font-size:1.05em;">
+<div style="font-size:1.05em; margin-bottom:20px;">
 <a href="./">Home</a> |
 <a href="docs/Melstrom CV.pdf">CV</a> |
 <a href="#research">Research</a> |
 <a href="#training">Training</a>
-</span>
+</div>
+
+<img src="https://media.licdn.com/dms/image/v2/D5603AQH8vPSylXsIqA/profile-displayphoto-crop_800_800/B56ZsqEez9IEAM-/0/1765937378397?e=1774483200&v=beta&t=IvJYmIzWJrHGL0wWhK-mBCHBcWCQkjcFJ9cEbETAOAc" align="right" width="256" style="margin-left: 20px; margin-bottom: 10px;">
+
+# Richard "Max" Melstrom, PhD  
+Economist | Professor | Consultant<br><br>
 
 ---
 <br>
