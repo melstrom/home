@@ -3,6 +3,13 @@
 # Richard "Max" Melstrom, PhD  
 Economist | Professor | Consultant<br><br>
 
+<span style="font-size:1.05em;">
+<a href="./">Home</a> |
+<a href="docs/cv_melstrom.pdf">CV</a> |
+<a href="#research">Research</a> |
+<a href="#training">Training</a>
+</span>
+
 ---
 <br>
 
