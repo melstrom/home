@@ -6,7 +6,7 @@ permalink: /
 .navbar {
   display: flex;
   justify-content: center;
-  gap: 45px;
+  gap: 5px;
   font-size: 1.08em;
   font-family: sans-serif;
   padding: 6px 0;             /* vertical padding */
