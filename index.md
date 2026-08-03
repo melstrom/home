@@ -1,9 +1,6 @@
 ---
 permalink: /
 ---
-
-<div style="margin-top: 12px;"></div>
-
 {% include navbar.html %}
 
 <img src="/home/melstrom-photo.jpg"
