@@ -4,37 +4,7 @@ permalink: /
 
 <div style="margin-top: 12px;"></div>
 
-<style>
-.navbar {
-  display: flex;
-  justify-content: center;
-  gap: 45px;
-  font-size: 1.08em;
-  font-family: sans-serif;
-  line-height: 1em;             /* tighten vertical spacing */
-  padding: 3px 0;               /* reduce bar height */
-  border-top: 1px solid #e5e5e5;
-  border-bottom: 1px solid #e5e5e5;
-  margin-bottom: 15px;          /* space below bar */
-}
-
-.navbar a {
-  text-decoration: none;
-  color: #333;
-  transition: color 0.2s;
-}
-
-.navbar a:hover {
-  color: #007acc;
-}
-</style>
-
-<div class="navbar">
-  <a href="/home/">Home</a>
-  <a href="/home/Melstrom CV.pdf">CV</a>
-  <a href="/home/research/">Research</a>
-  <a href="/home/training/">Training</a>
-</div>
+{% include navbar.html %}
 
 <img src="/home/melstrom-photo.jpg"
      alt="Richard Max Melstrom"
@@ -53,7 +23,7 @@ I am an economist with expertise in valuation and damage measurement. My work is
 
 I value clear and concise communication and specialize in translating complex economic findings into accessible language. My work prioritizes transparent reasoning and defensible conclusions over advocacy.
 
-I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I perform one-on-one mentoring and regularly supervise independent student projects. Many of these projects have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics & Sustainability major at Loyola.<br><br>
+I maintain an active research and training program, with a focus on one-on-one mentoring. I regularly supervise independent student projects, many of which have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics & Sustainability major at Loyola.<br><br>
 
 ---
 <br>
@@ -83,8 +53,23 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 ---
 <br>
 
+## Consulting & Litigation Support
+
+I provide economic consulting in the areas of environmental valuation, natural resource damage assessment, and cost-benefit analysis. My work is grounded in peer-reviewed research methods and is intended to produce transparent, defensible conclusions rather than advocacy.
+
+Areas of expertise include:
+- Nonmarket valuation of environmental amenities (recreation, water quality, ecosystem services)
+- Natural resource and environmental damage assessment
+- Cost-benefit analysis of environmental regulations and policy
+- Expert testimony and litigation support
+
+Inquiries regarding consulting or expert engagements are welcome at the contact below.<br><br>
+
+---
+<br>
+
 ## Curriculum Vitae
-[Curriculum Vitae](Melstrom CV.pdf)
+[Curriculum Vitae](Melstrom CV.pdf){:target="_blank"}
 
 ---
 <br>
@@ -94,11 +79,13 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 - **Email**: [rmelstrom@luc.edu](mailto:rmelstrom@luc.edu)
 - **Office**: BVM Hall 418, Lake Shore Campus
 - **Profiles**: <span>
-<a href="https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml">Loyola Academic Portal</a>
-<a href="https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en">Google Scholar</a> |
+<a href="https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml" target="_blank" rel="noopener">Loyola Academic Portal</a>
+<a href="https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> |
 </span>  
 
 ---
 <br>
 
-*“If we don’t measure values, they’re too easy to ignore.”*
+<p class="pull-quote">&ldquo;If we don&rsquo;t measure values, they&rsquo;re too easy to ignore.&rdquo;</p>
+
+{% include footer.html %}

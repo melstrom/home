@@ -1,0 +1,88 @@
+---
+---
+
+@import "minima";
+
+:root {
+  --accent: #1a56db;
+}
+
+a {
+  color: var(--accent);
+}
+
+.navbar a {
+  color: #333;
+}
+
+.navbar a:hover {
+  color: var(--accent);
+}
+
+.navbar a.active {
+  color: var(--accent);
+  font-weight: 600;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 2px;
+}
+
+.pub-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+  background: #fafbfe;
+}
+
+.pub-card p {
+  margin: 6px 0;
+}
+
+.pub-card .pub-cite {
+  color: #555;
+  font-style: italic;
+  font-size: 0.95em;
+}
+
+.pull-quote {
+  font-size: 1.3em;
+  font-style: italic;
+  text-align: center;
+  color: var(--accent);
+  border-top: 1px solid #e5e5e5;
+  padding-top: 20px;
+  margin-top: 30px;
+}
+
+.site-footer-custom {
+  text-align: center;
+  color: #888;
+  font-size: 0.85em;
+  margin-top: 40px;
+  padding-top: 15px;
+  border-top: 1px solid #e5e5e5;
+}
+
+.toc {
+  background: #fafbfe;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 12px 24px;
+  margin-bottom: 20px;
+}
+
+.toc a {
+  color: #333;
+}
+
+.toc a:hover {
+  color: var(--accent);
+}
+
+@media (max-width: 600px) {
+  .navbar {
+    gap: 18px;
+    flex-wrap: wrap;
+    font-size: 0.95em;
+  }
+}

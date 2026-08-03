@@ -1,0 +1,8 @@
+<link rel="icon" type="image/png" href="/home/favicon.png">
+
+<div class="navbar">
+  <a href="/home/"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+  <a href="/home/Melstrom CV.pdf" target="_blank" rel="noopener">CV</a>
+  <a href="/home/research/"{% if page.url == '/research/' %} class="active"{% endif %}>Research</a>
+  <a href="/home/training/"{% if page.url == '/training/' %} class="active"{% endif %}>Training</a>
+</div>
