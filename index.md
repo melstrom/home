@@ -87,5 +87,3 @@ Inquiries regarding consulting or expert engagements are welcome at the contact 
 <br>
 
 <p class="pull-quote">&ldquo;If we don&rsquo;t measure values, they&rsquo;re too easy to ignore.&rdquo;</p>
-
-{% include footer.html %}

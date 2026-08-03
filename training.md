@@ -69,5 +69,3 @@ Assistantships and fellowships are less common at programs that only offer termi
 
 ### Final thoughts
 I have worked with many students who were great candidates for graduate school because they could carry out research independently, with a moderate amount of supervision. That means carrying out a self-directed project or following a faculty member's plan of work. Do not be intimidated by the technical requirements in an economics graduate program if you want to make a career out of research. Technical requirements are there not because economists love math but because good analysis requires more than just subject knowledge and intuition. The scientific revolution did not happen because scholars avoided technical knowledge; quite the opposite. We can stand on the shoulders of giants. Most students already have the basic training they need to jump into intermediate coursework, before applying to a MA or MS program. Students can have all of their graduate schooling paid for if they are accepted into an economics PhD at a flagship university or an agricultural economics MS or PhD at a Land Grant university.
-
-{% include footer.html %}

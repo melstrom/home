@@ -42,5 +42,3 @@ This study examines the effect of U.S. Endangered Species Act (ESA) regulations 
 
 [Download paper](AJAE_2021.pdf){:target="_blank"}
 </div>
-
-{% include footer.html %}
