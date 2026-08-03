@@ -11,6 +11,19 @@ a {
   color: var(--accent);
 }
 
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 1cm;
+  font-size: 1.08em;
+  font-family: sans-serif;
+  line-height: 1em;
+  padding: 3px 0;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 15px;
+}
+
 .navbar a {
   color: #333;
 }
