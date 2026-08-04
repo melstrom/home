@@ -56,8 +56,8 @@ I maintain an active research and training program, with a focus on one-on-one m
 I provide economic consulting in the areas of environmental valuation, natural resource damage assessment, and cost-benefit analysis. My work is grounded in peer-reviewed research methods and is intended to produce transparent, defensible conclusions rather than advocacy.
 
 Areas of expertise include:
-- Nonmarket valuation of environmental amenities (recreation, water quality, ecosystem services)
-- Natural resource and environmental damage assessment
+- Lost earnings and economic impacts
+- Valuation of environmental amenities (recreation, water quality, ecosystem services)
 - Cost-benefit analysis of environmental regulations and policy
 - Expert testimony and litigation support
 
