@@ -4,6 +4,27 @@ layout: page
 ---
 {% include navbar.html %}
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Richard Melstrom",
+  "alternateName": "Max Melstrom",
+  "jobTitle": "Endowed Professor of Economics",
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Loyola University Chicago"
+  },
+  "url": "https://melstrom.github.io/home/",
+  "sameAs": [
+    "https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en",
+    "https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml",
+    "https://scholars.luc.edu/persons/richard-melstrom"
+  ],
+  "description": "Economist specializing in environmental valuation, economic damage, and cost-benefit analysis."
+}
+</script>
+
 <img src="/home/melstrom-photo.jpg"
      alt="Richard Max Melstrom"
      align="right"
