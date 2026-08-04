@@ -77,7 +77,7 @@ Inquiries regarding consulting or expert engagements are welcome at the contact 
 - **Email**: [rmelstrom@luc.edu](mailto:rmelstrom@luc.edu)
 - **Office**: BVM Hall 418, Lake Shore Campus
 - **Profiles**: <span>
-<a href="https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml" target="_blank" rel="noopener">Loyola Academic Portal</a>
+<a href="https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml" target="_blank" rel="noopener">Loyola Academic Portal</a> |
 <a href="https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> |
 </span>  
 
