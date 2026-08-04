@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: page
 ---
 {% include navbar.html %}
 
