@@ -40,9 +40,9 @@ Economist | Professor | Consultant<br><br>
 ## About Me
 I am an economist with expertise in valuation and damage measurement. My work is driven by economic theory, empirical methods, and data analysis. I have published 63 articles in high-impact, peer-reviewed academic journals.
 
-I value clear and concise communication and specialize in translating complex economic findings into accessible language. My work prioritizes transparent reasoning and defensible conclusions over advocacy.
+I value clear, concise communication and translating complex economic findings into accessible language. My work prioritizes transparent reasoning and defensible conclusions over advocacy.
 
-I maintain an active research and training program, with a focus on one-on-one mentoring. I regularly supervise independent student projects, many of which have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics & Sustainability major at Loyola.<br><br>
+As a professor, I maintain an active research and training program, with a focus on one-on-one mentoring. I regularly supervise independent student projects, many of which have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics & Sustainability major at Loyola.<br><br>
 
 ---
 <br>
